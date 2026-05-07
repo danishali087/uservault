@@ -69,7 +69,14 @@ npm run dev
 Open `frontend/index.html` with Live Server
 
 ##  Screenshots
-Coming soon!
+<img width="804" height="1784" alt="127 0 0 1_5500_frontend_index html" src="https://github.com/user-attachments/assets/62f5be91-03d5-427c-ab0d-decee6fe5b95" />
+<img width="1386" height="2242" alt="127 0 0 1_5500_frontend_dashboard html (1)" src="https://github.com/user-attachments/assets/039daf3f-1e67-4662-83e7-cd4868dad100" />
+<img width="1768" height="2858" alt="127 0 0 1_5500_frontend_dashboard html" src="https://github.com/user-attachments/assets/edb4a330-6a98-4481-801e-9dee1e5d9df6" />
+<img width="804" height="1784" alt="127 0 0 1_5500_frontend_index html" src="https://github.com/user-attachments/assets/06968f30-435d-4a1e-b98a-b3e897c807ba" />
+
+
+
+
 
 ## Developer
 **Danish Ali** — Full Stack Developer
